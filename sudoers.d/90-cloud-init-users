@@ -1,0 +1,4 @@
+# Created by cloud-init v. 22.1-14-g2e17a0d6-0ubuntu1~20.04.3 on Tue, 25 Jun 2024 08:00:45 +0000
+
+# User rules for suser
+suser ALL=(ALL) NOPASSWD:ALL
